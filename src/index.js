@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './store';
 import AdoptAPet from './components/AdoptAPet';
-import './index.css';
+import './styles/css/main.css';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
