@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './store';
-import AdoptAPet from './components/AdoptAPet';
 import TopNav from './components/top-nav';
 import './index.css';
 import registerServiceWorker from './registerServiceWorker';
